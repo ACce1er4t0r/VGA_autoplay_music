@@ -1,0 +1,184 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=8;
+DEPTH=256;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=UNS;
+
+CONTENT BEGIN
+	0    :   6;
+	1    :   7;
+	2    :   8;
+	3    :   9;
+	[4..5]  :   10;
+	6    :   13;
+	7    :   12;
+	[8..9]  :   10;
+	[10..11]  :   6;
+	12   :   10;
+	13   :   9;
+	14   :   8;
+	15   :   7;
+	16   :   6;
+	17   :   7;
+	18   :   8;
+	19   :   9;
+	[20..21]  :   10;
+	22   :   9;
+	23   :   8;
+	24   :   7;
+	25   :   6;
+	26   :   7;
+	27   :   8;
+	28   :   7;
+	29   :   6;
+	30   :   5;
+	31   :   7;
+	32   :   6;
+	33   :   7;
+	34   :   8;
+	35   :   9;
+	[36..37]  :   10;
+	38   :   13;
+	39   :   12;
+	[40..41]  :   10;
+	[42..43]  :   6;
+	44   :   10;
+	45   :   9;
+	46   :   8;
+	47   :   7;
+	48   :   6;
+	49   :   7;
+	50   :   8;
+	51   :   9;
+	[52..53]  :   10;
+	54   :   9;
+	55   :   8;
+	[56..57]  :   7;
+	[58..59]  :   8;
+	[60..61]  :   9;
+	[62..63]  :   10;
+	64   :   12;
+	65   :   13;
+	66   :   10;
+	67   :   9;
+	[68..69]  :   10;
+	70   :   9;
+	71   :   10;
+	72   :   12;
+	73   :   13;
+	74   :   10;
+	75   :   9;
+	[76..77]  :   10;
+	78   :   9;
+	79   :   10;
+	80   :   9;
+	81   :   8;
+	82   :   7;
+	83   :   5;
+	[84..85]  :   6;
+	86   :   5;
+	87   :   6;
+	88   :   7;
+	89   :   8;
+	90   :   9;
+	91   :   10;
+	[92..93]  :   6;
+	94   :   10;
+	[95..96]  :   12;
+	97   :   13;
+	98   :   10;
+	99   :   9;
+	[100..101]  :   10;
+	102  :   9;
+	103  :   10;
+	104  :   12;
+	105  :   13;
+	106  :   10;
+	107  :   9;
+	[108..109]  :   10;
+	110  :   9;
+	111  :   10;
+	112  :   9;
+	113  :   8;
+	114  :   7;
+	115  :   5;
+	[116..117]  :   6;
+	118  :   5;
+	119  :   6;
+	120  :   7;
+	121  :   8;
+	122  :   9;
+	123  :   10;
+	[124..125]  :   6;
+	126  :   10;
+	[127..128]  :   12;
+	129  :   13;
+	130  :   10;
+	131  :   9;
+	[132..133]  :   10;
+	134  :   9;
+	135  :   10;
+	136  :   12;
+	137  :   13;
+	138  :   10;
+	139  :   9;
+	[140..141]  :   10;
+	142  :   9;
+	143  :   10;
+	144  :   9;
+	145  :   8;
+	146  :   7;
+	147  :   5;
+	[148..149]  :   6;
+	150  :   5;
+	151  :   6;
+	152  :   7;
+	153  :   8;
+	154  :   9;
+	155  :   10;
+	[156..157]  :   6;
+	158  :   10;
+	[159..160]  :   12;
+	161  :   13;
+	162  :   10;
+	163  :   9;
+	[164..165]  :   10;
+	166  :   9;
+	167  :   10;
+	168  :   12;
+	169  :   13;
+	170  :   10;
+	171  :   9;
+	[172..173]  :   10;
+	174  :   13;
+	175  :   14;
+	176  :   15;
+	177  :   14;
+	178  :   13;
+	179  :   12;
+	[180..181]  :   10;
+	182  :   9;
+	183  :   10;
+	184  :   9;
+	185  :   8;
+	186  :   7;
+	187  :   5;
+	[188..189]  :   6;
+	[190..255]  :   0;
+END;
