@@ -1,0 +1,269 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'inst4896|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -7.999
+TNS   : -172.166
+
+Type  : Slow 1200mV 85C Model Setup 'inst1'
+Slack : -3.029
+TNS   : -47.536
+
+Type  : Slow 1200mV 85C Model Setup 'inst4896|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.213
+TNS   : -0.213
+
+Type  : Slow 1200mV 85C Model Setup 'CNT8B:inst|lpm_counter:LPM_COUNTER_component|cntr_eph:auto_generated|counter_reg_bit[7]'
+Slack : 0.044
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'SPK0:inst13|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'SPK0:inst14|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst4896|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 35.370
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst4896|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.184
+TNS   : -0.184
+
+Type  : Slow 1200mV 85C Model Hold 'inst4896|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.104
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CNT8B:inst|lpm_counter:LPM_COUNTER_component|cntr_eph:auto_generated|counter_reg_bit[7]'
+Slack : 0.109
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst4896|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst1'
+Slack : 0.435
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'SPK0:inst13|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'SPK0:inst14|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst1'
+Slack : -3.201
+TNS   : -30.194
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CNT8B:inst|lpm_counter:LPM_COUNTER_component|cntr_eph:auto_generated|counter_reg_bit[7]'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'SPK0:inst13|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'SPK0:inst14|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst4896|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.723
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : 24.934
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst4896|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499.718
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst4896|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 249999.720
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst4896|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -7.163
+TNS   : -152.926
+
+Type  : Slow 1200mV 0C Model Setup 'inst1'
+Slack : -2.636
+TNS   : -41.319
+
+Type  : Slow 1200mV 0C Model Setup 'inst4896|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.021
+TNS   : -0.021
+
+Type  : Slow 1200mV 0C Model Setup 'CNT8B:inst|lpm_counter:LPM_COUNTER_component|cntr_eph:auto_generated|counter_reg_bit[7]'
+Slack : 0.098
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'SPK0:inst13|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'SPK0:inst14|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst4896|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 35.656
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst4896|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.289
+TNS   : -0.289
+
+Type  : Slow 1200mV 0C Model Hold 'inst4896|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.015
+TNS   : -0.026
+
+Type  : Slow 1200mV 0C Model Hold 'CNT8B:inst|lpm_counter:LPM_COUNTER_component|cntr_eph:auto_generated|counter_reg_bit[7]'
+Slack : 0.117
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst4896|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.377
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst1'
+Slack : 0.413
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'SPK0:inst13|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'SPK0:inst14|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst1'
+Slack : -3.201
+TNS   : -30.194
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'SPK0:inst13|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : -1.487
+TNS   : -1.516
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'SPK0:inst14|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : -1.487
+TNS   : -1.514
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CNT8B:inst|lpm_counter:LPM_COUNTER_component|cntr_eph:auto_generated|counter_reg_bit[7]'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst4896|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.720
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : 24.943
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst4896|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499.718
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst4896|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 249999.717
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst4896|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.882
+TNS   : -61.128
+
+Type  : Fast 1200mV 0C Model Setup 'inst1'
+Slack : -0.729
+TNS   : -11.096
+
+Type  : Fast 1200mV 0C Model Setup 'inst4896|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.035
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CNT8B:inst|lpm_counter:LPM_COUNTER_component|cntr_eph:auto_generated|counter_reg_bit[7]'
+Slack : 0.324
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'SPK0:inst13|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'SPK0:inst14|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst4896|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 37.868
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst4896|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.038
+TNS   : -0.038
+
+Type  : Fast 1200mV 0C Model Hold 'CNT8B:inst|lpm_counter:LPM_COUNTER_component|cntr_eph:auto_generated|counter_reg_bit[7]'
+Slack : -0.001
+TNS   : -0.001
+
+Type  : Fast 1200mV 0C Model Hold 'inst4896|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.081
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst4896|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.127
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst1'
+Slack : 0.152
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'SPK0:inst13|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'SPK0:inst14|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst1'
+Slack : -1.000
+TNS   : -18.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CNT8B:inst|lpm_counter:LPM_COUNTER_component|cntr_eph:auto_generated|counter_reg_bit[7]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'SPK0:inst13|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'SPK0:inst14|CNT11B:inst|lpm_counter:LPM_COUNTER_component|cntr_09j:auto_generated|counter_reg_bit[0]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst4896|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.732
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : 24.594
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst4896|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499.756
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst4896|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 249999.798
+TNS   : 0.000
+
+------------------------------------------------------------
